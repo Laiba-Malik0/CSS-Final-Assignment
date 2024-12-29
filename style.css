@@ -28,7 +28,7 @@ a {
     text-decoration: none;
     color: black;
 }
-li {
+li{
     display: inline-block;
     margin: 10px 0px 0px 30px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -599,22 +599,49 @@ p{
     font-size: 25px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-.serv-link a {
+ .serv-link a {
     margin: 90em 0px 90px 32em;
     text-decoration: underline;
     color: white;
     display: inline;
 }
-.serv-link a:hover{
+  .footersec{
+    color: white;
+  }
+.footersec h1{
+    margin: -290px 0px 0px 820px;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: uppercase;
+   
+}
+.footersec li a{
+    display: flex;
+    margin-left: 47em;
+    text-decoration: underline;
+    color: white;
+}
+.footerinfo h1{
+    margin: -310px 0px 0px 45em;
+    font-size: 25px;
+    text-transform: uppercase;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.footerinfo ul li{
+    margin-left: 390px;
+}
+.fbb{
+    color: white;
+}
+.footersec-pages{
+margin: 80px 0px 0px 70em;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-transform: uppercase;
+}
+.likes{
+    border-radius: 50%;
+    border: 1px solid;
+    border-width: 5px;
+    background-color: rgb(50, 248, 10);
     color: black;
 }
- .useful{
- margin: -12em 0px 0px 35em;
- text-transform: uppercase;
- font-size: 25px;
- font-family: Verdana, Geneva, Tahoma, sans-serif;
- color: white;
- } 
- .callss{
-    color: white;
- }
